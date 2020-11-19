@@ -2,7 +2,8 @@
 
 Example app showing implementation which loads up an information via making an HTTP GET call to a server and then displays the results in a list form.
 
-<img src="demo_img.gif" height="600em" />
+
+![Retrieve Json Data via http get](https://user-images.githubusercontent.com/74393555/99682407-fba59980-2aa0-11eb-9b88-b1ba9e05b0c4.png)
 
 
 ## Getting Started
