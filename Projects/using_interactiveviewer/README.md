@@ -6,7 +6,7 @@ InteractiveViewer is a widget that enables pan and zoom interactions with its ch
 
 Read [[Documentation](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)]
 
-<img src="demo_img.gif" height="600em" />
+![using interactive viewver](https://user-images.githubusercontent.com/74393555/99682415-fcd6c680-2aa0-11eb-9f90-cb48692e5afb.png)
 
 ## Getting Started
 
