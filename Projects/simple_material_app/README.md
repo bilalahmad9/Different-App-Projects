@@ -2,8 +2,8 @@
 
 A simple material app
 
-<img src="demo_img.jpg" height="600em" />
 
+![Simple Material app](https://user-images.githubusercontent.com/74393555/99682361-ef214100-2aa0-11eb-8dfa-33720befdc94.png)
 
 ## Getting Started
 
