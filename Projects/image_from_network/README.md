@@ -2,7 +2,7 @@
 
 Example app showing implementation of image from network.
 
-<img src="demo_img.gif" height="600em" />
+![Image from network](https://user-images.githubusercontent.com/74393555/99682306-e466ac00-2aa0-11eb-876d-1cf14795643d.png)
 
 
 ## Getting Started
