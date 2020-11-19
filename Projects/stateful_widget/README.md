@@ -6,7 +6,8 @@ A stateful widget is a widget that describes part of the user interface by build
 
 Read [[Documentation](https://docs.flutter.io/flutter/widgets/StatefulWidget-class.html)]
 
-<img src="demo_img.gif" height="600em" />
+
+![Stateful widget](https://user-images.githubusercontent.com/74393555/99682364-f0526e00-2aa0-11eb-9a3b-a7fc66a5c4ff.png)
 
 
 ## Getting Started
