@@ -1,8 +1,6 @@
 # Enabling Splash Screen
 
-Example app showing implementing splash screen.
-
-<img src="demo_img.gif" height="600em" />
+![SpalshScreen](https://user-images.githubusercontent.com/74393555/99682293-e0d32500-2aa0-11eb-9fe2-4d578373e17a.png)
 
 
 ## Getting Started
