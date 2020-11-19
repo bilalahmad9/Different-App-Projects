@@ -6,7 +6,10 @@ An alert dialog informs the user about situations that require acknowledgement. 
 
 Read [[Documentation](https://docs.flutter.io/flutter/material/AlertDialog-class.html)]
 
-<img src="demo_img.gif" height="600em" />
+![Using alert dialog](https://user-images.githubusercontent.com/74393555/99682378-f34d5e80-2aa0-11eb-8715-df033e870c43.png)
+
+
+![alert dialog](https://user-images.githubusercontent.com/74393555/99682382-f3e5f500-2aa0-11eb-9929-b0a68e7ec146.png)
 
 
 ## Getting Started
