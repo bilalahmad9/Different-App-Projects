@@ -2,7 +2,8 @@
 
 Example app showing implementation which loads up a json file from a local folder.
 
-<img src="demo_img.gif" height="600em" />
+
+![loadlocal json file](https://user-images.githubusercontent.com/74393555/99682347-eb8dba00-2aa0-11eb-83b6-7282482c7017.png)
 
 
 ## Getting Started
