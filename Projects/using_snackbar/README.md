@@ -2,7 +2,7 @@
 
 Example app showing implementing snack bar.
 
-<img src="demo_img.gif" height="600em" />
+![Using SnackBar](https://user-images.githubusercontent.com/74393555/99682426-fea08a00-2aa0-11eb-848c-7cacb6db5ab1.png)
 
 
 ## Getting Started
