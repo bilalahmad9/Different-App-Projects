@@ -6,7 +6,7 @@ The bottom navigation bar consists of multiple items in the form of labels, icon
 
 Read [[Documentation](https://docs.flutter.io/flutter/material/BottomNavigationBar-class.html)] [[Material Design Spec](https://material.io/guidelines/components/bottom-navigation.html)]
 
-<img src="demo_img.gif" height="600em" />
+![bottom navigation bar](https://user-images.githubusercontent.com/74393555/99682386-f5172200-2aa0-11eb-95f7-17f58a23a723.png)
 
 
 ## Getting Started
