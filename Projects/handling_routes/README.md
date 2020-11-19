@@ -4,7 +4,7 @@ Mobile apps typically reveal their contents via full-screen elements called "scr
 
 Read [[Documentation](https://docs.flutter.io/flutter/widgets/Navigator-class.html)]
 
-<img src="demo_img.gif" height="600em" />
+![HomePage](https://user-images.githubusercontent.com/74393555/99682299-e29ce880-2aa0-11eb-852f-6f3a9f47f526.png)
 
 
 ## Getting Started
